@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre el counter should match con el snapshot 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1
+      data-testid="test-title"
+    >
+      React
+    </h1>
+    <h2>
+      10
+    </h2>
+    <div
+      class="card"
+    >
+      <button
+        class="btn-increase"
+      >
+        +1
+      </button>
+      <button
+        id="btn-decrease"
+      >
+        -1
+      </button>
+      <button
+        aria-label="btn-reset"
+      >
+        Reset
+      </button>
+    </div>
+    <p>
+      Edit 
+      <code>
+        src/App.jsx
+      </code>
+       and save to test HMR
+    </p>
+    <p
+      class="read-the-docs"
+    >
+      Click on the Vite and React logos to learn more
+    </p>
+  </div>
+</div>
+`;

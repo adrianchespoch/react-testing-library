@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en App should hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1
+      data-testid="test-title"
+    >
+      React Pro
+    </h1>
+    <p>
+      0
+    </p>
+    <div
+      class="card"
+    >
+      <button>
+        +1
+      </button>
+      <button>
+         -1 
+      </button>
+      <button>
+         Reset 
+      </button>
+    </div>
+    <p>
+      Edit 
+      <code>
+        src/App.jsx
+      </code>
+       and save to test HMR
+    </p>
+    <p
+      class="read-the-docs"
+    >
+      Click on the Vite and React logos to learn more
+    </p>
+  </div>
+</div>
+`;
